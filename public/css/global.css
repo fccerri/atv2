@@ -22,7 +22,7 @@
   --border: #393552;
   --shadow: rgba(0, 0, 0, 0.4);
   --radius: 8px;
-  --font-main: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  --font-main: "Gill Sans", "Gill Sans MT";
 }
 
 html {
