@@ -15,6 +15,12 @@ npm start
 
 O servidor estará disponível em `http://localhost:3000`.
 
+Para encerrar o projeto digite CTRL + C no terminal executando a aplicação. 
+Alternativamente o processo pode ser encerrado em outro terminal linux por:
+```bash
+kill -9 $(lsof -t -i:3000)
+```
+
 ## Estrutura MVC
 
 ```
